@@ -15,19 +15,32 @@ Whereas, when I used only 4 centers (lower dimension mapping) for calculation of
 
 
 #### Input details, hyper-parameter values and function used
+
 Input size: 100
+
 Numbers of centers taken: 20 and 4 separately
+
 Input range: 0 to 1
+
 Initial Weight range: -1 to 1
+
 Learning parameter, eta = 1
+
 Resolution used for plotting decision boundary: 1000
+
 Radial Basis function used: Gaussian function
 
 
 #### Color legends used in the graph:
+
 Red Cross: Class plus inputs
+
 Blue Cross: Class minus inputs
+
 Red Dots: Class plus initial center
+
 Black Dots: Class plus final centers
+
 Blue Dots: Class minus initial centers
+
 Magenta Dots: Class minus final centers
